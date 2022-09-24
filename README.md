@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-//This is part one of the flixer app
+
+
+
 =======
 ## Flix Part 2
 
@@ -25,4 +26,4 @@ Describe any challenges encountered while building the app.
 # FlixPart1
 This is part 1 of the Flixer app development
 
->>>>>>> 241a3ef058d5daa2d9b761eb3a48a5376335865e
+
